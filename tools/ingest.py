@@ -147,6 +147,9 @@ def main():
         (wiki/f"index-{cs}.md").write_text("\n".join(lines)+"\n")
         index.append(f"- [{category}](wiki/index-{cs}.md) — {len(items)} entries")
     (ROOT/"index.md").write_text("\n".join(index)+"\n")
+    from render_readme import render_readme
+    render_readme(ROOT)
     print(f'ingest {CONFIG["id"]}: {len(entries)} entries, {len(groups)} categories, {created} created, {changed} changed')
 
 if __name__=="__main__": main()
+
