@@ -8,6 +8,8 @@ ROOT=ingest.ROOT
 def hashes(root):
  return {str(p.relative_to(root)):hashlib.sha256(p.read_bytes()).hexdigest() for p in root.rglob("*") if p.is_file() and "__pycache__" not in str(p)}
 def main():
+ from render_readme import render_readme
+ render_readme(ROOT, check=True)
  entries=ingest.parse_list(ROOT/"raw/2026-11-04/README.md"); pages=[]; ids=set()
  for p in (ROOT/"wiki").glob("*.md"):
   f,b=ingest.split_page(p.read_text())
@@ -45,3 +47,4 @@ def main():
    assert nb==marker and nf["depth"]==depth and nf["uid"]==f["uid"] and nf["created"]==f["created"]
  print(f"PASS {len(entries)} entries; complete inventory, unique UUIDs, summaries, links, hashes, idempotency, authored depth preservation")
 if __name__=="__main__": main()
+
