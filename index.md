@@ -1,0 +1,189 @@
+# Python (Awesome KB)
+
+Generated from the canon list. Entries remain at their recorded depth.
+
+## Categories
+
+- [AI and Agents / Agent Skills](wiki/index-ai-and-agents-agent-skills.md) — 5 entries
+- [AI and Agents / Orchestration](wiki/index-ai-and-agents-orchestration.md) — 4 entries
+- [AI and Agents / Vendor Agent SDKs](wiki/index-ai-and-agents-vendor-agent-sdks.md) — 3 entries
+- [AI and Agents / Model Context Protocol](wiki/index-ai-and-agents-model-context-protocol.md) — 2 entries
+- [AI and Agents / Personal Assistants](wiki/index-ai-and-agents-personal-assistants.md) — 2 entries
+- [AI and Agents / Prompt Optimization](wiki/index-ai-and-agents-prompt-optimization.md) — 1 entries
+- [AI and Agents / Data Layer](wiki/index-ai-and-agents-data-layer.md) — 5 entries
+- [AI and Agents / Pre-trained Models](wiki/index-ai-and-agents-pre-trained-models.md) — 2 entries
+- [AI and Agents / Local LLM Inference](wiki/index-ai-and-agents-local-llm-inference.md) — 3 entries
+- [AI and Agents / LLM Serving](wiki/index-ai-and-agents-llm-serving.md) — 3 entries
+- [AI and Agents / Image and Video Generation](wiki/index-ai-and-agents-image-and-video-generation.md) — 1 entries
+- [AI and Agents / Fine-tuning](wiki/index-ai-and-agents-fine-tuning.md) — 4 entries
+- [AI and Agents / Speech](wiki/index-ai-and-agents-speech.md) — 4 entries
+- [Deep Learning / Frameworks](wiki/index-deep-learning-frameworks.md) — 5 entries
+- [Deep Learning / Reinforcement Learning](wiki/index-deep-learning-reinforcement-learning.md) — 2 entries
+- [Machine Learning / General](wiki/index-machine-learning-general.md) — 4 entries
+- [Machine Learning / Gradient Boosting](wiki/index-machine-learning-gradient-boosting.md) — 3 entries
+- [Machine Learning / Time Series Forecasting](wiki/index-machine-learning-time-series-forecasting.md) — 4 entries
+- [Machine Learning / Hyperparameter Optimization](wiki/index-machine-learning-hyperparameter-optimization.md) — 2 entries
+- [Natural Language Processing / General](wiki/index-natural-language-processing-general.md) — 4 entries
+- [Natural Language Processing / Chinese](wiki/index-natural-language-processing-chinese.md) — 4 entries
+- [Computer Vision / General](wiki/index-computer-vision-general.md) — 4 entries
+- [Computer Vision / OCR](wiki/index-computer-vision-ocr.md) — 3 entries
+- [Recommender Systems](wiki/index-recommender-systems.md) — 3 entries
+- [Web Frameworks / Synchronous](wiki/index-web-frameworks-synchronous.md) — 7 entries
+- [Web Frameworks / Asynchronous](wiki/index-web-frameworks-asynchronous.md) — 4 entries
+- [Web APIs / Django](wiki/index-web-apis-django.md) — 4 entries
+- [Web APIs / Flask](wiki/index-web-apis-flask.md) — 3 entries
+- [Web APIs / Framework Agnostic](wiki/index-web-apis-framework-agnostic.md) — 3 entries
+- [Web APIs / RPC](wiki/index-web-apis-rpc.md) — 1 entries
+- [Web Servers / ASGI](wiki/index-web-servers-asgi.md) — 3 entries
+- [Web Servers / WSGI](wiki/index-web-servers-wsgi.md) — 2 entries
+- [WebSocket](wiki/index-websocket.md) — 4 entries
+- [Template Engines](wiki/index-template-engines.md) — 2 entries
+- [Web Asset Management](wiki/index-web-asset-management.md) — 3 entries
+- [Authentication / OAuth](wiki/index-authentication-oauth.md) — 4 entries
+- [Authentication / JWT](wiki/index-authentication-jwt.md) — 1 entries
+- [Authentication / Permissions](wiki/index-authentication-permissions.md) — 2 entries
+- [Admin Panels](wiki/index-admin-panels.md) — 4 entries
+- [CMS](wiki/index-cms.md) — 2 entries
+- [ERP](wiki/index-erp.md) — 1 entries
+- [Static Site Generators](wiki/index-static-site-generators.md) — 2 entries
+- [HTTP Clients / General](wiki/index-http-clients-general.md) — 5 entries
+- [HTTP Clients / URL Manipulation](wiki/index-http-clients-url-manipulation.md) — 1 entries
+- [Web Scraping / Frameworks](wiki/index-web-scraping-frameworks.md) — 5 entries
+- [Web Scraping / Content Extraction](wiki/index-web-scraping-content-extraction.md) — 3 entries
+- [Email](wiki/index-email.md) — 3 entries
+- [ORM / Relational Databases](wiki/index-orm-relational-databases.md) — 5 entries
+- [ORM / NoSQL Databases](wiki/index-orm-nosql-databases.md) — 4 entries
+- [Database Drivers / MySQL - awesome-mysql](wiki/index-database-drivers-mysql-awesome-mysql.md) — 2 entries
+- [Database Drivers / PostgreSQL - awesome-postgres](wiki/index-database-drivers-postgresql-awesome-postgres.md) — 3 entries
+- [Database Drivers / SQLite - awesome-sqlite](wiki/index-database-drivers-sqlite-awesome-sqlite.md) — 3 entries
+- [Database Drivers / ClickHouse](wiki/index-database-drivers-clickhouse.md) — 2 entries
+- [Database Drivers / Other Relational Databases](wiki/index-database-drivers-other-relational-databases.md) — 3 entries
+- [Database Drivers / NoSQL Databases](wiki/index-database-drivers-nosql-databases.md) — 3 entries
+- [Database / Analytical](wiki/index-database-analytical.md) — 2 entries
+- [Database / Vector](wiki/index-database-vector.md) — 3 entries
+- [Database / Key-Value & Document](wiki/index-database-key-value-document.md) — 1 entries
+- [Caching / General](wiki/index-caching-general.md) — 3 entries
+- [Caching / HTTP Responses](wiki/index-caching-http-responses.md) — 1 entries
+- [Caching / Django](wiki/index-caching-django.md) — 2 entries
+- [Search / Full-Text Search](wiki/index-search-full-text-search.md) — 4 entries
+- [Search / Vector Search](wiki/index-search-vector-search.md) — 1 entries
+- [Serialization / Data Formats](wiki/index-serialization-data-formats.md) — 4 entries
+- [Serialization / Object Pickling](wiki/index-serialization-object-pickling.md) — 2 entries
+- [Data Analysis](wiki/index-data-analysis.md) — 3 entries
+- [Data Ingestion / ETL / General](wiki/index-data-ingestion-etl-general.md) — 2 entries
+- [Data Ingestion / ETL / Financial Data](wiki/index-data-ingestion-etl-financial-data.md) — 4 entries
+- [Data Validation](wiki/index-data-validation.md) — 4 entries
+- [Data Visualization / Plotting](wiki/index-data-visualization-plotting.md) — 5 entries
+- [Data Visualization / Specialized](wiki/index-data-visualization-specialized.md) — 3 entries
+- [Data Visualization / Dashboards and Apps](wiki/index-data-visualization-dashboards-and-apps.md) — 3 entries
+- [Geolocation](wiki/index-geolocation.md) — 4 entries
+- [Science / Core](wiki/index-science-core.md) — 3 entries
+- [Science / Symbolic Mathematics](wiki/index-science-symbolic-mathematics.md) — 1 entries
+- [Science / Statistics](wiki/index-science-statistics.md) — 1 entries
+- [Science / Biology and Chemistry](wiki/index-science-biology-and-chemistry.md) — 2 entries
+- [Science / Physics and Engineering](wiki/index-science-physics-and-engineering.md) — 3 entries
+- [Science / Simulation and Modeling](wiki/index-science-simulation-and-modeling.md) — 3 entries
+- [Science / Graphs and Networks](wiki/index-science-graphs-and-networks.md) — 1 entries
+- [Science / Computational Geometry](wiki/index-science-computational-geometry.md) — 1 entries
+- [Science / Other](wiki/index-science-other.md) — 2 entries
+- [Quantum Computing](wiki/index-quantum-computing.md) — 4 entries
+- [Algorithms and Design Patterns / Algorithms](wiki/index-algorithms-and-design-patterns-algorithms.md) — 3 entries
+- [Algorithms and Design Patterns / Design Patterns](wiki/index-algorithms-and-design-patterns-design-patterns.md) — 2 entries
+- [Interactive Interpreter](wiki/index-interactive-interpreter.md) — 5 entries
+- [Code Analysis / General](wiki/index-code-analysis-general.md) — 4 entries
+- [Code Analysis / Git Hooks](wiki/index-code-analysis-git-hooks.md) — 1 entries
+- [Code Analysis / Linters and Formatters](wiki/index-code-analysis-linters-and-formatters.md) — 7 entries
+- [Code Analysis / Refactoring](wiki/index-code-analysis-refactoring.md) — 2 entries
+- [Code Analysis / Type Checkers - awesome-python-typing](wiki/index-code-analysis-type-checkers-awesome-python-typing.md) — 4 entries
+- [Testing / Frameworks](wiki/index-testing-frameworks.md) — 4 entries
+- [Testing / Test Runners](wiki/index-testing-test-runners.md) — 2 entries
+- [Testing / Browser Automation](wiki/index-testing-browser-automation.md) — 3 entries
+- [Testing / Load Testing](wiki/index-testing-load-testing.md) — 1 entries
+- [Testing / API Testing](wiki/index-testing-api-testing.md) — 1 entries
+- [Testing / Mock](wiki/index-testing-mock.md) — 5 entries
+- [Testing / Object Factories](wiki/index-testing-object-factories.md) — 2 entries
+- [Testing / Code Coverage](wiki/index-testing-code-coverage.md) — 1 entries
+- [Testing / Fake Data](wiki/index-testing-fake-data.md) — 2 entries
+- [Debugging Tools / pdb-like Debugger](wiki/index-debugging-tools-pdb-like-debugger.md) — 2 entries
+- [Debugging Tools / Tracing](wiki/index-debugging-tools-tracing.md) — 1 entries
+- [Debugging Tools / Profiler](wiki/index-debugging-tools-profiler.md) — 4 entries
+- [Debugging Tools / Others](wiki/index-debugging-tools-others.md) — 4 entries
+- [Build Tools](wiki/index-build-tools.md) — 4 entries
+- [Documentation](wiki/index-documentation.md) — 6 entries
+- [DevOps Tools / Cloud Providers](wiki/index-devops-tools-cloud-providers.md) — 4 entries
+- [DevOps Tools / Configuration Management](wiki/index-devops-tools-configuration-management.md) — 4 entries
+- [DevOps Tools / Deployment](wiki/index-devops-tools-deployment.md) — 2 entries
+- [DevOps Tools / Monitoring and Processes](wiki/index-devops-tools-monitoring-and-processes.md) — 5 entries
+- [DevOps Tools / Other](wiki/index-devops-tools-other.md) — 1 entries
+- [Distributed Computing](wiki/index-distributed-computing.md) — 5 entries
+- [Task Queues](wiki/index-task-queues.md) — 5 entries
+- [Messaging](wiki/index-messaging.md) — 4 entries
+- [Job Schedulers / Task Scheduling](wiki/index-job-schedulers-task-scheduling.md) — 2 entries
+- [Job Schedulers / Workflow Orchestration](wiki/index-job-schedulers-workflow-orchestration.md) — 4 entries
+- [Logging](wiki/index-logging.md) — 4 entries
+- [Network Virtualization](wiki/index-network-virtualization.md) — 3 entries
+- [CLI Development / General](wiki/index-cli-development-general.md) — 5 entries
+- [CLI Development / Terminal Rendering](wiki/index-cli-development-terminal-rendering.md) — 4 entries
+- [CLI Development / TUI Frameworks](wiki/index-cli-development-tui-frameworks.md) — 3 entries
+- [CLI Tools / Database CLIs](wiki/index-cli-tools-database-clis.md) — 4 entries
+- [CLI Tools / Downloaders](wiki/index-cli-tools-downloaders.md) — 1 entries
+- [CLI Tools / HTTP Clients](wiki/index-cli-tools-http-clients.md) — 1 entries
+- [CLI Tools / Project Scaffolding](wiki/index-cli-tools-project-scaffolding.md) — 2 entries
+- [CLI Tools / Shells](wiki/index-cli-tools-shells.md) — 1 entries
+- [CLI Tools / Terminal Workflow](wiki/index-cli-tools-terminal-workflow.md) — 1 entries
+- [GUI Development / Desktop](wiki/index-gui-development-desktop.md) — 5 entries
+- [GUI Development / Qt](wiki/index-gui-development-qt.md) — 2 entries
+- [GUI Development / Tkinter](wiki/index-gui-development-tkinter.md) — 2 entries
+- [GUI Development / Web-based](wiki/index-gui-development-web-based.md) — 3 entries
+- [Text Processing / Encoding and Unicode](wiki/index-text-processing-encoding-and-unicode.md) — 3 entries
+- [Text Processing / Fuzzy Matching](wiki/index-text-processing-fuzzy-matching.md) — 1 entries
+- [Text Processing / General](wiki/index-text-processing-general.md) — 2 entries
+- [Text Processing / Internationalization](wiki/index-text-processing-internationalization.md) — 1 entries
+- [Text Processing / Parser](wiki/index-text-processing-parser.md) — 5 entries
+- [Text Processing / Transliteration and Slugs](wiki/index-text-processing-transliteration-and-slugs.md) — 2 entries
+- [Text Processing / Unique identifiers](wiki/index-text-processing-unique-identifiers.md) — 1 entries
+- [HTML Manipulation](wiki/index-html-manipulation.md) — 5 entries
+- [File Format Processing / General](wiki/index-file-format-processing-general.md) — 2 entries
+- [File Format Processing / File Conversion](wiki/index-file-format-processing-file-conversion.md) — 3 entries
+- [File Format Processing / Excel](wiki/index-file-format-processing-excel.md) — 2 entries
+- [File Format Processing / Word](wiki/index-file-format-processing-word.md) — 1 entries
+- [File Format Processing / PowerPoint](wiki/index-file-format-processing-powerpoint.md) — 1 entries
+- [File Format Processing / PDF](wiki/index-file-format-processing-pdf.md) — 4 entries
+- [File Format Processing / HTML-to-PDF](wiki/index-file-format-processing-html-to-pdf.md) — 1 entries
+- [File Format Processing / Markdown](wiki/index-file-format-processing-markdown.md) — 3 entries
+- [File Format Processing / Data Formats](wiki/index-file-format-processing-data-formats.md) — 2 entries
+- [File Manipulation / Paths and File Watching](wiki/index-file-manipulation-paths-and-file-watching.md) — 3 entries
+- [File Manipulation / File Type Detection](wiki/index-file-manipulation-file-type-detection.md) — 3 entries
+- [Image Processing / Barcodes and QR Codes](wiki/index-image-processing-barcodes-and-qr-codes.md) — 2 entries
+- [Image Processing / General](wiki/index-image-processing-general.md) — 5 entries
+- [Image Processing / Image Serving](wiki/index-image-processing-image-serving.md) — 1 entries
+- [Audio & Video Processing / Audio](wiki/index-audio-video-processing-audio.md) — 3 entries
+- [Audio & Video Processing / Video](wiki/index-audio-video-processing-video.md) — 2 entries
+- [Audio & Video Processing / Metadata](wiki/index-audio-video-processing-metadata.md) — 3 entries
+- [Game Development / 3D Engines](wiki/index-game-development-3d-engines.md) — 1 entries
+- [Game Development / Game Frameworks](wiki/index-game-development-game-frameworks.md) — 4 entries
+- [Game Development / Visual Novels](wiki/index-game-development-visual-novels.md) — 1 entries
+- [Implementations](wiki/index-implementations.md) — 5 entries
+- [Built-in Classes Enhancement](wiki/index-built-in-classes-enhancement.md) — 4 entries
+- [Functional Programming](wiki/index-functional-programming.md) — 5 entries
+- [Asynchronous Programming / Async I/O](wiki/index-asynchronous-programming-async-i-o.md) — 7 entries
+- [Asynchronous Programming / Parallelism](wiki/index-asynchronous-programming-parallelism.md) — 2 entries
+- [Date and Time](wiki/index-date-and-time.md) — 5 entries
+- [Environment Management](wiki/index-environment-management.md) — 4 entries
+- [Package Management / Package Managers](wiki/index-package-management-package-managers.md) — 6 entries
+- [Package Management / Build Backends](wiki/index-package-management-build-backends.md) — 5 entries
+- [Package Repositories](wiki/index-package-repositories.md) — 3 entries
+- [Distribution / Executables](wiki/index-distribution-executables.md) — 4 entries
+- [Distribution / Obfuscation](wiki/index-distribution-obfuscation.md) — 1 entries
+- [Configuration Files](wiki/index-configuration-files.md) — 5 entries
+- [Cryptography](wiki/index-cryptography.md) — 4 entries
+- [Penetration Testing](wiki/index-penetration-testing.md) — 5 entries
+- [Supply Chain Security / Dependency Audits](wiki/index-supply-chain-security-dependency-audits.md) — 2 entries
+- [Supply Chain Security / Secret Scanning](wiki/index-supply-chain-security-secret-scanning.md) — 1 entries
+- [Web Security](wiki/index-web-security.md) — 2 entries
+- [Hardware](wiki/index-hardware.md) — 4 entries
+- [Microsoft Windows](wiki/index-microsoft-windows.md) — 4 entries
+- [Miscellaneous](wiki/index-miscellaneous.md) — 2 entries
+- [Newsletters](wiki/index-newsletters.md) — 4 entries
+- [Podcasts](wiki/index-podcasts.md) — 5 entries
+- [Websites](wiki/index-websites.md) — 1 entries

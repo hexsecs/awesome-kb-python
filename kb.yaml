@@ -1,0 +1,31 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-python",
+  "uid": "01a1a884-3cf4-7b53-8164-086acf3c056c",
+  "title": "Python (Awesome KB)",
+  "description": "A source-attributed Python knowledge base ingested from vinta/awesome-python, with stub pages for the curated list entries.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "CC-BY-4.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "python",
+    "awesome"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:vinta/awesome-python",
+    "file": "README.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "2a1a1959a3a6e6853ecb229b7a8deb5790367442"
+  }
+}

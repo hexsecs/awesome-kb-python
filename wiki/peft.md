@@ -1,0 +1,22 @@
+---
+uid: "01a1a884-3d6c-70a4-8ec2-65a27b7f30b6"
+title: "peft"
+summary: "A library for parameter-efficient fine-tuning of large pretrained models."
+type: "entity"
+category: "AI and Agents / Fine-tuning"
+url: "https://github.com/huggingface/peft"
+status: "unknown"
+created: "2026-11-04"
+updated: "2026-11-04"
+depth: "stub"
+source_list: "vinta/awesome-python"
+source_commit: "2a1a1959a3a6e6853ecb229b7a8deb5790367442"
+list_summary: "A library for parameter-efficient fine-tuning of large pretrained models."
+sources: [{"url": "https://github.com/vinta/awesome-python/blob/2a1a1959a3a6e6853ecb229b7a8deb5790367442/README.md", "retrieved": "2026-11-04"}]
+---
+
+A library for parameter-efficient fine-tuning of large pretrained models.
+
+- **Resource:** https://github.com/huggingface/peft
+- **Source:** [vinta/awesome-python](https://github.com/vinta/awesome-python/blob/2a1a1959a3a6e6853ecb229b7a8deb5790367442/README.md#L182)
+- **Depth:** Generated stub; no independent resource verification.

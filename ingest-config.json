@@ -1,0 +1,8 @@
+{
+  "id": "awesome-kb-python",
+  "title": "Python (Awesome KB)",
+  "source": "vinta/awesome-python",
+  "source_commit": "2a1a1959a3a6e6853ecb229b7a8deb5790367442",
+  "license": "CC-BY-4.0",
+  "parser": "python"
+}
